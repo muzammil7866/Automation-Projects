@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+.venv/
+venv/
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data and outputs
+/data/
+/output/
+/job-automation/browser_profile/
+
+# Logs and API captures
+/data/api_logs/
+/job-automation/data/api_logs/
+
+# Secrets
+.env
+*.pem
+*.key
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local browser state and generated runtime artifacts
+data/api_logs/
+data/browser_profile/
+data/jobs.json
+data/filtered_jobs.json
+data/resume_match.txt
+data/my_resume.tex
+output/tailored_resumes/
+
+# Build and editor noise
+*.pdf
+*.log
+.DS_Store
+Thumbs.db
+.vscode/settings.json

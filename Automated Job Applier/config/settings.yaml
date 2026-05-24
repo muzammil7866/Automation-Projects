@@ -1,0 +1,5 @@
+# Project settings
+scraper:
+  source: indeed
+  niche: ai_ml
+  max_jobs: 100
