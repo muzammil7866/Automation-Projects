@@ -1,4 +1,4 @@
-# Automated Job Applier — MVP
+# Automated Jobs Scrapper, Top Matcher and Resume Tailorer — MVP
 
 This repository is a small, portfolio-ready MVP that automates the early stages of job hunting:
 
